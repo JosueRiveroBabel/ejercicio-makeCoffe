@@ -1,3 +1,5 @@
+package Agua;
+
 public class DepoAgua2 implements DepositoAgua{
 
 

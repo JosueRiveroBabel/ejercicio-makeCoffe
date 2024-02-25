@@ -1,3 +1,5 @@
+package Cafe;
+
 public class DepCafeNormal implements DepositoCafe{
 
     public DepCafeNormal(){

@@ -1,3 +1,5 @@
+package Molino;
+
 public class Molino1 implements Molino {
 
     public Molino1(){

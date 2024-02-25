@@ -1,4 +1,8 @@
-public class Sacarina implements Edulcorante{
+package Edulcorante;
+
+import Edulcorante.Edulcorante;
+
+public class Sacarina implements Edulcorante {
 
     public Sacarina(){
     }
